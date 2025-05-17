@@ -31,4 +31,5 @@ Aplicación de consola en Java que gestiona la información de curadores, exposi
 
 1. Clona el repositorio:
    ```bash
+   https://github.com/Laura-git-hub/JPA-Gestion-Museos.git
    
